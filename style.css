@@ -20,16 +20,61 @@ margin: 0 auto;
     text-decoration: none;
     font-size: 15px;
 }
+
 .images{
 width: 33%;
 }
 h2{
 
     text-align: center;
+
 }
 p{
 
     max-width: 800px;
     margin: auto;
     font-size: 15px;
+
+}
+
+.punto-1{
+
+    margin: 100px;
+    width: 500px;
+margin: 0 auto;
+}
+
+.punto-1 a{
+    float: left;
+    
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+
+h2{
+    margin: 100px;
+    width: 500px;
+margin: 0 auto;
+
+}
+.footer-text{
+
+    text-align: center;
+margin-top: -20px;
+}
+.hr-class{
+
+    margin: 100px;
+    width: 500px;
+margin: 0 auto;
+}
+
+.logo{
+
+    position: relative; 
+    
+    left: 300px;
 }
